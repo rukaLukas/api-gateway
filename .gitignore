@@ -1,0 +1,31 @@
+# Class files
+# Compiled class files
+**/*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/**/*
+# /classes/**/*
+
+# Gradle files
+build/
+
+# Spring Boot generated files
+spring-boot-starter-*.jar
+
+# Application properties
+application.properties
+
+# IDE-specific files
+.vscode/
+
